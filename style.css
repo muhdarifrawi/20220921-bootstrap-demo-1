@@ -1,3 +1,12 @@
 .custom-size{
     height:450px;
 }
+
+.custom-carousel{
+    height:100vh;
+}
+#cta-btn{
+    position:absolute;
+    top: 250px;
+    left:150px;
+}
